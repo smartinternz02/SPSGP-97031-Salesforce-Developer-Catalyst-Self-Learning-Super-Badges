@@ -1,1 +1,2 @@
-"# SPSGP-97031-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges" 
+Salesforce-Virtual-Internship
+This Repository has all the codes related to Salesforce Trailhead Superbadges Apex Specialist & Process Automation Specialist.
