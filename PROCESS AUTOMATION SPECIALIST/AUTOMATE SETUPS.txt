@@ -1,0 +1,6 @@
+CASE(
+MOD([Opportunity].Close Date + 180 - DATE(1900, 1, 7),7),
+0, [Opportunity].CloseDate + 181,
+6, [Opportunity].CloseDate + 182,
+[Opportunity].CloseDate + 180
+)
